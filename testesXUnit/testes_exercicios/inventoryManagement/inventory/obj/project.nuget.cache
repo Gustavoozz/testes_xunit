@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iJ+ynDo0bwdOdkUMogWTeiZAQxz5KgRStVZPU402yeZ7dMpCsSXH60TDYwDnWzgS2TX5AEYO0qOT56jSmPq+xQ==",
+  "dgSpecHash": "dZYg90H4ZxdJCyvCgOyu05MPSnUFJozsF/DwcQQd1nu0VTd9mKN5mVZ/JD0wsd/lRR9OAAEPfR+2hivdN4685A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\53844614893\\Desktop\\‎\\testesXUnit\\testes_exercicios\\inventoryManagement\\inventory\\inventory.csproj",
+  "projectFilePath": "C:\\Users\\53844614893\\Desktop\\‎\\testes_xunit\\testesXUnit\\testes_exercicios\\inventoryManagement\\inventory\\inventory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

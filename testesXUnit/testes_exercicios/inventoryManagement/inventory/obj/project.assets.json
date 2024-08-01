@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\53844614893\\Desktop\\‎\\testesXUnit\\testes_exercicios\\inventoryManagement\\inventory\\inventory.csproj",
+      "projectUniqueName": "C:\\Users\\53844614893\\Desktop\\‎\\testes_xunit\\testesXUnit\\testes_exercicios\\inventoryManagement\\inventory\\inventory.csproj",
       "projectName": "inventory",
-      "projectPath": "C:\\Users\\53844614893\\Desktop\\‎\\testesXUnit\\testes_exercicios\\inventoryManagement\\inventory\\inventory.csproj",
+      "projectPath": "C:\\Users\\53844614893\\Desktop\\‎\\testes_xunit\\testesXUnit\\testes_exercicios\\inventoryManagement\\inventory\\inventory.csproj",
       "packagesPath": "C:\\Users\\53844614893\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\53844614893\\Desktop\\‎\\testesXUnit\\testes_exercicios\\inventoryManagement\\inventory\\obj\\",
+      "outputPath": "C:\\Users\\53844614893\\Desktop\\‎\\testes_xunit\\testesXUnit\\testes_exercicios\\inventoryManagement\\inventory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\53844614893\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -5539,11 +5539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\53844614893\\Desktop\\‎\\testesXUnit\\testes_exercicios\\emailValidate\\email.test\\email.test.csproj",
+      "projectUniqueName": "C:\\Users\\53844614893\\Desktop\\testes_xunit\\testesXUnit\\testes_exercicios\\emailValidate\\email.test\\email.test.csproj",
       "projectName": "email.test",
-      "projectPath": "C:\\Users\\53844614893\\Desktop\\‎\\testesXUnit\\testes_exercicios\\emailValidate\\email.test\\email.test.csproj",
+      "projectPath": "C:\\Users\\53844614893\\Desktop\\testes_xunit\\testesXUnit\\testes_exercicios\\emailValidate\\email.test\\email.test.csproj",
       "packagesPath": "C:\\Users\\53844614893\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\53844614893\\Desktop\\‎\\testesXUnit\\testes_exercicios\\emailValidate\\email.test\\obj\\",
+      "outputPath": "C:\\Users\\53844614893\\Desktop\\testes_xunit\\testesXUnit\\testes_exercicios\\emailValidate\\email.test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\53844614893\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5560,8 +5560,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\53844614893\\Desktop\\‎\\testesXUnit\\testes_exercicios\\emailValidate\\emails\\emails.csproj": {
-              "projectPath": "C:\\Users\\53844614893\\Desktop\\‎\\testesXUnit\\testes_exercicios\\emailValidate\\emails\\emails.csproj"
+            "C:\\Users\\53844614893\\Desktop\\testes_xunit\\testesXUnit\\testes_exercicios\\emailValidate\\emails\\emails.csproj": {
+              "projectPath": "C:\\Users\\53844614893\\Desktop\\testes_xunit\\testesXUnit\\testes_exercicios\\emailValidate\\emails\\emails.csproj"
             }
           }
         }

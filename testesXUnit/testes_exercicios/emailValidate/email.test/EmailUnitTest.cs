@@ -16,6 +16,9 @@ namespace email.test
         [InlineData("exemplo@dominio", false)]
         [InlineData("exemplo@dominio.c", false)]
         [InlineData("exemplo@.com", false)]
+        [InlineData("exemplo@..com", false)]
+        [InlineData("exemplo@dominio.com.br", true)]
+        [InlineData("exemplo@.br", false)]
         public void IsValid(string email, bool expectedIsValid)
         {
             // Act

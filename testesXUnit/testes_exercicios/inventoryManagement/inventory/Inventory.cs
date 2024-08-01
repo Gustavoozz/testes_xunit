@@ -13,6 +13,7 @@ namespace inventory
 
         public void AddProduct(string nome, int quantidade)
         {
+            // O método ContainsKey verifica se a chave nome já existe no dicionário products.
             if (products.ContainsKey(nome))
             {
                 products[nome] += quantidade;
@@ -25,6 +26,7 @@ namespace inventory
 
         public int GetAmount(string nome)
         {
+            // TryGetValue é um método do dicionário que tenta obter o valor associado à chave nome.
             return products.TryGetValue(nome, out int quantidade) ? quantidade : 0;
         }
     }

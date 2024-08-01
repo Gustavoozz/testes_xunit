@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A4XFIK7CV/6kD8hvMrJWJIfu6M6bam8iXi1BbCw6UEGvLWA7QcXl6eAfCvj1tC4De/q+WgV1uVOegvPeF1qHvg==",
+  "dgSpecHash": "xhwh5/qLQK2GXQvZv8DJ9nZ7VZiy/R1xEqwX24LT5WzwDfe+15PGG2xvTzzEATfFlfOVqhl29HBBNqRuyPMmbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\53844614893\\Desktop\\‎\\testesXUnit\\testes_exercicios\\emailValidate\\emails\\emails.csproj",
+  "projectFilePath": "C:\\Users\\53844614893\\Desktop\\testes_xunit\\testesXUnit\\testes_exercicios\\emailValidate\\emails\\emails.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
