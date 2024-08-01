@@ -1,0 +1,14 @@
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\emailValidate\emails\bin\Debug\net8.0\emails.exe
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\emailValidate\emails\bin\Debug\net8.0\emails.deps.json
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\emailValidate\emails\bin\Debug\net8.0\emails.runtimeconfig.json
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\emailValidate\emails\bin\Debug\net8.0\emails.dll
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\emailValidate\emails\bin\Debug\net8.0\emails.pdb
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\emailValidate\emails\obj\Debug\net8.0\emails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\emailValidate\emails\obj\Debug\net8.0\emails.AssemblyInfoInputs.cache
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\emailValidate\emails\obj\Debug\net8.0\emails.AssemblyInfo.cs
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\emailValidate\emails\obj\Debug\net8.0\emails.csproj.CoreCompileInputs.cache
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\emailValidate\emails\obj\Debug\net8.0\emails.dll
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\emailValidate\emails\obj\Debug\net8.0\refint\emails.dll
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\emailValidate\emails\obj\Debug\net8.0\emails.pdb
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\emailValidate\emails\obj\Debug\net8.0\emails.genruntimeconfig.cache
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\emailValidate\emails\obj\Debug\net8.0\ref\emails.dll

@@ -1,0 +1,14 @@
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\books\bin\Debug\net8.0\books.exe
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\books\bin\Debug\net8.0\books.deps.json
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\books\bin\Debug\net8.0\books.runtimeconfig.json
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\books\bin\Debug\net8.0\books.dll
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\books\bin\Debug\net8.0\books.pdb
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\books\obj\Debug\net8.0\books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\books\obj\Debug\net8.0\books.AssemblyInfoInputs.cache
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\books\obj\Debug\net8.0\books.AssemblyInfo.cs
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\books\obj\Debug\net8.0\books.csproj.CoreCompileInputs.cache
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\books\obj\Debug\net8.0\books.dll
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\books\obj\Debug\net8.0\refint\books.dll
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\books\obj\Debug\net8.0\books.pdb
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\books\obj\Debug\net8.0\books.genruntimeconfig.cache
+C:\Users\53844614893\Desktop\‎\testesXUnit\testes_exercicios\books\obj\Debug\net8.0\ref\books.dll

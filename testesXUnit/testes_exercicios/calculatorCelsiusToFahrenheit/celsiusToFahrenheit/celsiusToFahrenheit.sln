@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "celsiusToFahrenheit", "celsiusToFahrenheit.csproj", "{56CB3A21-0B1B-436B-9FB4-818419170B3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelsiusToFahrenheit.test", "..\CelsiusToFahrenheit.test\CelsiusToFahrenheit.test.csproj", "{08C48B54-5EE7-4515-9952-90CC0EECC27F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56CB3A21-0B1B-436B-9FB4-818419170B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56CB3A21-0B1B-436B-9FB4-818419170B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56CB3A21-0B1B-436B-9FB4-818419170B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56CB3A21-0B1B-436B-9FB4-818419170B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C48B54-5EE7-4515-9952-90CC0EECC27F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C48B54-5EE7-4515-9952-90CC0EECC27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C48B54-5EE7-4515-9952-90CC0EECC27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C48B54-5EE7-4515-9952-90CC0EECC27F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FE3FBE1-29D2-446F-B3DA-27B79502DCF5}
+	EndGlobalSection
+EndGlobal
